@@ -13,6 +13,7 @@ public class MatrixController{
         matrixB = null;
         matrixC = null;
     }
+
     private void startMenu(){
         int input;
        do {
